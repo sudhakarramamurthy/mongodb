@@ -1,3 +1,6 @@
+/*
+Test Maven project created for testingg mongodb
+*/
 package su.mvnlab1;
 import java.net.UnknownHostException;
 
